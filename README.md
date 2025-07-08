@@ -178,10 +178,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Performance optimizations
 - Documentation enhancements
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **BLACKBOX.AI** for advanced coding assistance capabilities
