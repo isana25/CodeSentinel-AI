@@ -192,15 +192,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - **Hugging Face** for deployment platform
 - **Gradio** for the web interface framework
 
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/ai-code-assistant/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-code-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-code-assistant/discussions)
-- **Email**: support@yourproject.com
-
----
-
 **Built with ❤️ using AI-powered technologies**
 
 [![Made with Gradio](https://img.shields.io/badge/Made%20with-Gradio-orange)](https://gradio.app/)
