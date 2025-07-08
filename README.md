@@ -6,6 +6,12 @@ An intelligent automated code review system powered by **BLACKBOX.AI**, **Groq A
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)]([https://huggingface.co/spaces/yourusername/ai-code-assistant](https://huggingface.co/spaces/isana25/AI-Code-Assistant))
 
+<div align="center">
+  <img src="ai-code-assistant.png" alt="AI Code Assistant Interface" width="800"/>
+  <p><em>AI Code Assistant - Automated Code Review Interface</em></p>
+</div>
+
+
 ## ✨ Features
 
 ### 🤖 **Automated Code Review**
