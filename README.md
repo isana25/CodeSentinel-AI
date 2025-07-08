@@ -1,4 +1,4 @@
-# 🧠 CodeSentinel AI: AI Code Assistant
+# 🧠 CodeSentinel AI: AI Code Review Assistant
 
 An intelligent automated code review system powered by **BLACKBOX.AI**, **Groq API**, and **Llama Models** that provides comprehensive code analysis, security vulnerability detection, and performance optimization suggestions.
 
